@@ -13,7 +13,7 @@ Data dari berbagai studi menunjukkan bahwa faktor seperti jam tidur yang kurang,
 1. Mengidentifikasi Faktor Utama Pemicu Depresi Mahasiswa – Mengungkap variabel gaya hidup, tekanan akademik, dan dukungan sosial yang paling berpengaruh terhadap risiko depresi.
 2. Membuat Model Prediksi Risiko Depresi – Menggunakan analisis data untuk memprediksi kelompok mahasiswa yang memiliki risiko tinggi mengalami depresi sehingga intervensi bisa dilakukan lebih dini.
 3. Menyediakan Rekomendasi Intervensi yang Tepat Sasaran – Menyusun strategi preventif dan kuratif yang dapat diimplementasikan kampus untuk meningkatkan kesejahteraan mental mahasiswa.
-
+------
 **Dataset Link**
    Sumber: [Kaggle - Depression Student Dataset](https://www.kaggle.com/code/onydrive/eda-depression-student-dataset/input)  
 
@@ -58,4 +58,5 @@ AI digunakan untuk mempercepat analisis data, khususnya pada tahap exploratory d
 
 -------------------------------------------------------------------------------------
 Tools & Library: Python, Google Colab, Pandas, Matplotlib, Replicate
+
 Model AI: ibm-granite/granite-3.2-8b-instruct via Replicate API
