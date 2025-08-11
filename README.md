@@ -54,3 +54,7 @@ AI digunakan untuk mempercepat analisis data, khususnya pada tahap exploratory d
 1. Classification – Mengkategorikan mahasiswa berdasarkan tingkat risiko depresi.
 2. Summarization – Merangkum temuan kunci dari data dalam format yang ringkas dan mudah dipahami.
 3. Correlation Analysis – Mengidentifikasi hubungan variabel secara otomatis untuk mendukung penarikan kesimpulan.
+
+-------------------------------------------------------------------------------------
+Tools & Library: Python, Google Colab, Pandas, Matplotlib, Replicate
+Model AI: ibm-granite/granite-3.2-8b-instruct via Replicate API
