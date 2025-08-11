@@ -35,7 +35,7 @@ Dari temuan tersebut, dapat disimpulkan bahwa kombinasi tekanan akademik dan mas
 
 Hasil analisis terhadap Depression Student Dataset mengungkapkan bahwa tingkat depresi di kalangan mahasiswa dipengaruhi oleh kombinasi berbagai faktor, bukan oleh satu penyebab tunggal. Tekanan akademik yang tinggi terbukti menjadi salah satu faktor utama yang berkontribusi terhadap meningkatnya risiko depresi. Jam belajar yang terlalu panjang cenderung memperburuk kondisi mental mahasiswa, terutama ketika tidak diimbangi dengan istirahat dan aktivitas penunjang kesehatan mental. Selain itu, masalah finansial muncul sebagai faktor signifikan yang memperbesar kerentanan terhadap depresi. Perbedaan tingkat depresi antara mahasiswa laki-laki dan perempuan relatif kecil, dan usia tidak menunjukkan hubungan yang jelas dengan tingkat depresi. Temuan ini menekankan pentingnya intervensi yang menyasar berbagai aspek kehidupan mahasiswa secara bersamaan.
 
-**Rekomendasi Strategis**
+**Rekomendasi**
 
 1. Pengelolaan Beban Akademik
 Kampus perlu meninjau kembali distribusi tugas dan jadwal ujian untuk memastikan beban belajar mahasiswa berada pada tingkat yang wajar, sekaligus mendorong penerapan teknik manajemen waktu yang efektif.
