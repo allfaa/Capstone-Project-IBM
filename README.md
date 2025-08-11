@@ -4,7 +4,14 @@
 
 **Latar Belakang & Masalah (Project Overview)**
 
-Proyek ini bertujuan untuk menganalisis hubungan antara pola hidup, tingkat tekanan akademik, dan kondisi depresi di kalangan mahasiswa. Analisis dilakukan menggunakan dataset yang memuat informasi terkait kebiasaan makan, kebiasaan hidup, tekanan akademik, serta status depresi mahasiswa. Visualisasi data digunakan untuk mengidentifikasi pola dan tren yang dapat memberikan wawasan penting terkait kesehatan mental mahasiswa.
+Di tengah meningkatnya tekanan akademik dan tuntutan sosial pada era modern, kesehatan mental mahasiswa menjadi perhatian serius bagi institusi pendidikan dan pemerintah. Fenomena meningkatnya kasus depresi di kalangan mahasiswa bukan hanya berdampak pada individu yang mengalaminya, tetapi juga pada kualitas pembelajaran, produktivitas akademik, dan masa depan generasi muda.
+
+Data dari berbagai studi menunjukkan bahwa faktor seperti jam tidur yang kurang, pola makan yang tidak sehat, kurangnya olahraga, dan minimnya dukungan sosial berkontribusi signifikan terhadap risiko depresi. Namun, memahami faktor-faktor ini secara akurat seringkali sulit karena kompleksitas hubungan antar variabel serta beragamnya latar belakang mahasiswa..
+
+**Tujuan Utama Proyek**
+1. Mengidentifikasi Faktor Utama Pemicu Depresi Mahasiswa – Mengungkap variabel gaya hidup, tekanan akademik, dan dukungan sosial yang paling berpengaruh terhadap risiko depresi.
+2. Membuat Model Prediksi Risiko Depresi – Menggunakan analisis data untuk memprediksi kelompok mahasiswa yang memiliki risiko tinggi mengalami depresi sehingga intervensi bisa dilakukan lebih dini.
+3. Menyediakan Rekomendasi Intervensi yang Tepat Sasaran – Menyusun strategi preventif dan kuratif yang dapat diimplementasikan kampus untuk meningkatkan kesejahteraan mental mahasiswa.
 
 **Dataset Link**
    Sumber: [Kaggle - Depression Student Dataset](https://www.kaggle.com/code/onydrive/eda-depression-student-dataset/input)  
@@ -42,3 +49,8 @@ Kampus perlu meninjau kembali distribusi tugas dan jadwal ujian untuk memastikan
 2. Layanan Konseling dan Edukasi Kesehatan Mental
 Menyediakan layanan konseling profesional yang mudah diakses, serta mengadakan workshop atau seminar terkait manajemen stres, mindfulness, dan keterampilan mengatasi tekanan.
 
+**AI Support Explanation**
+AI digunakan untuk mempercepat analisis data, khususnya pada tahap exploratory data analysis dan klasifikasi faktor risiko. Model AI membantu:
+1. Classification – Mengkategorikan mahasiswa berdasarkan tingkat risiko depresi.
+2. Summarization – Merangkum temuan kunci dari data dalam format yang ringkas dan mudah dipahami.
+3. Correlation Analysis – Mengidentifikasi hubungan variabel secara otomatis untuk mendukung penarikan kesimpulan.
